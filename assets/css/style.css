@@ -22,7 +22,7 @@ background-color: #000000;
 
 /* Apply a monospace font, which is typical for terminals */
 body {
-font-family: 'Lucida Console', 'Courier New', monospace;
+font-family: monospace, 'Lucida Console', 'Courier New';
 background-color: black;
 }
 
